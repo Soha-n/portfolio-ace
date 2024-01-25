@@ -1,2 +1,2 @@
 # portfolio-ace
-- MY portfolio website
+- crafted a portfolio website dedicated to my favorite fictional character from One Piece, Portgas D. Ace. This platform serves as a tribute to the remarkable journey and personality of Ace, allowing fans and enthusiasts to delve into the rich world of this beloved character. Explore his adventures, backstory, and significance in the One Piece universe through a carefully curated collection of content on this website. Join me in celebrating the legacy of Portgas D. Ace!
